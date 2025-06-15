@@ -3,7 +3,7 @@ layout: base.liquid
 title: Harshavardhan Lingampally
 ---
 
-I'm a developer building fast and useful things for the web. This site is my personal space to share what I'm working on and what I've learned.
+I'm a builder who worked on workflow automation at Salesforce (Flow) and now building the Agentic platform, exploring the frontiers of humanoid robots and LeRobot.
 
 ---
 

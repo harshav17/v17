@@ -2,12 +2,13 @@
 layout: base.liquid
 title: Can GPT-OSS-20B Create a Bill-Splitting App?
 tags: ["post"]
-last_modified_at: 2025-06-15 12:26:00
+date: 2025-08-21 12:26:00
+last_modified_at: 2025-08-21 12:26:00
 ---
 
 # Can GPT-OSS-20B Create a Bill-Splitting App?
 
-*June 15, 2025*
+*August 21, 2025*
 
 I'm exploring whether GPT-OSS-20B can create a production-grade bill-splitting app without me writing code.
 

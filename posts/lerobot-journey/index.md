@@ -2,6 +2,7 @@
 layout: base.liquid
 title: LeRobot Journey
 tags: ["post"]
+date: 2025-06-15 12:26:00
 last_modified_at: 2025-06-15 12:26:00
 ---
 

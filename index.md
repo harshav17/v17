@@ -9,7 +9,7 @@ I'm a builder who worked on workflow automation at Salesforce (Flow) and now bui
 
 ## Writings
 
-{% assign sorted_posts = collections.post | sort: "data.last_modified_at" | reverse %}
+{% assign sorted_posts = collections.post | sort: "date" | reverse %}
 {% for post in sorted_posts %}
 <article>
     <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>

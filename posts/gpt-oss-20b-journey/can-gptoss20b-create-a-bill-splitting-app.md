@@ -6,21 +6,23 @@ date: 2025-11-17 12:26:00
 last_modified_at: 2025-11-17 12:26:00
 ---
 
-# Can Vibe-Coding Create a production Bill-Splitting App?
+# Can coding agents Create a production-grade Bill-Splitting App?
+
+## Overview
 
 I'm exploring whether coding agents can create a production-grade bill-splitting app without me writing code.
 
-## Rules
+### Rules
 
 I am not allowed to write a single line of code.
 
-## Agents
+### Agents
 
 1. OpenCode with GPT-OSS-20B, running on LMStudio through my Mini PC with Quadro RTX 6000.
 2. Github Copilot Pro - 10$ per month
 3. Chat GPT Codex - 10$ per month
 
-*November 17, 2025*
+## *November 17, 2025*
 
 1. Scaffolded the app with GPT-OSS-20B and OpenCode. It struggled a to generate a simple python app with UV, sometime generating duplicates lines. Might not be worth pursuing, unless I run it in Ralph-Wiggem mode.
 
